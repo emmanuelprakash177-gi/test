@@ -125,11 +125,11 @@ body{
 
 /* Background images */
 .login-bg {
-    background-image: url("https://github.com/emmanuelprakash177-gi/test/blob/87d4e0a47b81b6f3dfc93ed643376a4368c86559/lo2.png");
+    background-image: url("lo2.png");
 }
 
 .register-bg {
-    background-image: url("https://github.com/emmanuelprakash177-gi/test/blob/87d4e0a47b81b6f3dfc93ed643376a4368c86559/lo1.png");
+    background-image: url("lo1.png");
 }
 
 /* Button overlay */
